@@ -6,7 +6,7 @@
       "image": "",
       "description": "",
       "ageRange": "",
-      "outdoor": false,
+      "outdoor": false
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "image": "",
       "description": "",
       "ageRange": "",
-      "outdoor": true,
+      "outdoor": true
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "image": "",
       "description": "",
       "ageRange": "",
-      "outdoor": false,
+      "outdoor": false
   },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "image": "",
       "description": "",
       "ageRange": "",
-      "outdoor": true,
+      "outdoor": true
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "image": "",
       "description": "",
       "ageRange": "",
-      "outdoor": false,
+      "outdoor": false
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "image": "",
       "description": "",
       "ageRange": "",
-      "outdoor": false,
+      "outdoor": false
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "image": "",
       "description": "",
       "ageRange": "",
-      "outdoor": false,
+      "outdoor": false
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "image": "",
       "description": "",
       "ageRange": "",
-      "outdoor": false,
+      "outdoor": false
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "image": "",
       "description": "",
       "ageRange": "",
-      "outdoor": true,
+      "outdoor": true
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "image": "",
       "description": "",
       "ageRange": "",
-      "outdoor": true,
+      "outdoor": true
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "image": "",
       "description": "",
       "ageRange": "",
-      "outdoor": false,
+      "outdoor": false
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "image": "",
       "description": "",
       "ageRange": "",
-      "outdoor": true,
-    },
+      "outdoor": true
+    }
   ]
 }
