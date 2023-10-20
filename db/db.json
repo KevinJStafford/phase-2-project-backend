@@ -116,6 +116,15 @@
       "outdoor": "Indoor Activity",
       "free": "Free Activity",
       "id": 13
+    },
+    {
+      "name": "brewery",
+      "image": "https://www.parentmap.com/sites/default/files/styles/1200x1200_scaled/public/2022-10/optimism2_0.jpg?itok=N_knq_Am",
+      "description": "a great place to let the littles run a muck while you get some well earned adult time",
+      "ageRange": "all ages",
+      "outdoor": "Indoor Activity",
+      "free": "Actvity price will vary",
+      "id": 14
     }
   ]
 }
